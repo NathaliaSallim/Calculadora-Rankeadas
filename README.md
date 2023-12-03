@@ -1,16 +1,8 @@
-# Entendendo o Desafio
+# Calculadora de partidas Rankeadas
 
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas.
+<img align="center" height="450" width="500" src="https://media.discordapp.net/attachments/909950749042147421/1180709404711079947/skyrimArco.gif?ex=657e6852&is=656bf352&hm=0ff68c20eadb9055a229372b28edddbcc47d3a4cd3efabb84dff109992febe35&">
 
-Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
-
-Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
-
-Instruções para entrega
-
-## Calculadora de partidas Rankeadas
-
-O Que deve ser utilizado
+## O Que deve ser utilizado
 
 - Variáveis
 - Operadores
@@ -35,3 +27,5 @@ depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve s
 
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de <b>{saldoVitorias}</b> está no nível de <b>{nivel}</b>"
+
+<img align="center" height="450" width="500" src="https://media.discordapp.net/attachments/909950749042147421/1180705992934178816/skyrim.gif?ex=657e6525&is=656bf025&hm=45d6e3ef8de3db0c45b93d796e8e94c747a48edb520b3141724653fdd94c2c48&">
